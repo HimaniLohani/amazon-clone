@@ -27,7 +27,7 @@ The main goal of this project is to practice layout design, styling, and buildin
 amazon-clone/
 │── index.html  
 │── style.css  
-│── /images  
+
 
 ---
 
