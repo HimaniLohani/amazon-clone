@@ -1,26 +1,49 @@
-# 🛒 Amazon Clone (HTML & CSS)
+🛒 Amazon Clone (HTML & CSS)
 
-A responsive front-end clone of Amazon homepage built using **HTML** and **CSS**.  
-This project focuses on UI design, layout structuring, and responsiveness.
+This is a simple front-end clone of the Amazon homepage built using HTML and CSS.  
+The main goal of this project is to practice layout design, styling, and building real-world UI.
 
 ---
 
 ## 🚀 Features
 
-- 🏠 Amazon-like homepage UI
-- 🔍 Navigation bar with search box
-- 📦 Product sections & cards
-- 🖼️ Banner / hero section
-- 📱 Responsive design (mobile + desktop)
-- 🎨 Clean and modern layout
+- Amazon-like homepage design
+- Navigation bar with search box
+- Product sections and cards
+- Banner section
+- Basic responsive layout
 
 ---
 
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (Flexbox + Grid)
+- CSS3 (Flexbox & Grid)
 
 ---
 
 ## 📂 Project Structure
+
+amazon-clone/
+│── index.html  
+│── style.css  
+│── /images  
+
+---
+
+## ⚙️ How to Run
+
+1. Download or clone the repository  
+2. Open the folder  
+3. Run `index.html` in your browser  
+
+---
+
+## 💡 What I Learned
+
+- Structuring web pages using HTML  
+- Styling using CSS  
+- Using Flexbox and Grid for layout  
+- Creating a real-world UI clone  
+
+---
