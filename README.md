@@ -46,4 +46,6 @@ amazon-clone/
 - Using Flexbox and Grid for layout  
 - Creating a real-world UI clone  
 
+## PROJECT URL
+https://www.linkedin.com/posts/himani-lohani-3542562b4_webdevelopmentproject-frontendproject-landingpageproject-ugcPost-7289661022582255616-XGN5/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEt_13ABYZTd2rYMIwE5-IHcR1hbJamesxw
 ---
